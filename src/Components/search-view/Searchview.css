@@ -1,0 +1,9 @@
+.search-box{
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+}
+.search-box:focus{
+    background-color: black;
+    color: white;
+}
